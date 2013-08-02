@@ -13,7 +13,7 @@ __&nbsp;&nbsp;&nbsp;&nbsp;I write ios and web apps with ruby mostly, but I'm pol
 ## Work Experience
 
 **2012 - Present
-AppStack, Temecula, CA<br/>
+AppStack, Temecula CA<br/>
 Software Engineer**
 
 &nbsp;&nbsp;&nbsp;&nbsp;Maintained and improved a rails app which processed recurring payments, integrated with twilio and had a heavy backbonejs component<br/>
