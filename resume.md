@@ -1,10 +1,3 @@
----
-layout: page
-comments: false
-sharing: false
-footer: false
----
-
 ## What I Do
 
 __&nbsp;&nbsp;&nbsp;&nbsp;I write ios and web apps with ruby mostly, but I'm polyglot when I need to be.__
