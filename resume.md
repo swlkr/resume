@@ -12,7 +12,7 @@ I write ios and web apps with ruby mostly, but I'm polyglot when I need to be.
 
 ## Work Experience
 
-** August 2013 - Present<br/>
+**August 2013 - Present<br/>
 DRMcnatty & Associates, MLM Project Services<br/>
 Mission Viejo, CA<br/>
 Full Stack Web Developer**
@@ -22,7 +22,7 @@ Full Stack Web Developer**
 - Redesigned a few ui elements that displayed data using tables to use a newer cards metaphor
 - Worked with the team to write a rails app using bootstrap 2 and jQuery that used only webservices (no db)
 
-** June 2012 - August 2013<br/>
+**June 2012 - August 2013<br/>
 AppStack<br/>
 Temecula CA<br/>
 Software Engineer**
