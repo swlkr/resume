@@ -1,14 +1,17 @@
 ## What I Do
 
-I write ios and web apps with ruby mostly, but I'm polyglot when I need to be.
+I write ios and web apps mostly, but I'm polyglot when I need to be.
 
 ## Skills
 
-&nbsp;&nbsp;&nbsp;&nbsp;Ruby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rubymotion<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Objective-C<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Rails >= 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vim<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;JS/Coffeescript&nbsp;&nbsp;&nbsp;Git<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C#/.NET<br/>
+- Ruby
+- Javascript/Coffeescript/Opal
+- Sass
+- Objective-C
+- Rails >= 3.2
+- Git
+- Vim
+- C#/.NET >= 3.5 SP1
 
 ## Work Experience
 
@@ -56,7 +59,7 @@ Applications Software Engineer**
 
 - California State Polytechnic University, Pomona Bachelor of Science in Computer Engineering
 
-## Hacking Experience
+## Where To Find Me
 
 [http://swlkr.com](http://swlkr.com)<br/>
 [https://github.com/swlkr](https://github.com/swlkr)<br/>
