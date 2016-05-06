@@ -24,11 +24,12 @@ Temecula, California
 <br/>
 Senior Software Engineer**
 
-- Wrote an iOS app with react native and swift
+- Wrote two iOS apps with react native + swift/obj-c and graphql-js from database to api to app store
 - Helped the team with a new version of a major product written in angular.js
-- Wrote several smaller apps with reactjs
-- Wrote a small-ish app from database to browser with node.js, graphql and react.js
-- Wrote api docusign
+- Wrote several smaller apps with react.js
+- Wrote an app from database to browser with node.js, koa, graphql and react.js
+- Wrote code to interface existing systems with external APIs (docusign, national student clearinghouse...)
+- Wrote a chrome extension that converts the current page into a PDF
 
 **February 2014 - August 2014
 <br/>
