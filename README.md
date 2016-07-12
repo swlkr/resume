@@ -7,9 +7,10 @@ Skills
 - Git
 - Vim
 - Clojure/Clojurescript
+- Datalog
+- SQL
 - Javascript
 - React
-- GraphQL
 - Swift
 - Ruby
 - Rails
